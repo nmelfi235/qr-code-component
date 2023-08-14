@@ -32,9 +32,10 @@ body {
 
 #qr-description {
     font-family: Arial, sans-serif;
-    color: gray;
+    color: rgb(156, 156, 156);
     font-weight: light;
     font-size: 0.55rem;
     padding:  .1em 2vw;
     margin: 2em;
+    line-height: 1.2;
 }
